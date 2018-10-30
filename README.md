@@ -20,6 +20,8 @@ contains the objects used to express availabilities of a participant
 contains a set of functions used to find a common time slot between participants
 
 #### main.py: 
+You should execute this function in order to have the final result of the API
+
 you can create new Participants objects 
 
 and then you can call the function responsible for finding time slots
