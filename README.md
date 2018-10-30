@@ -18,7 +18,8 @@ createTimeSlots.py : contains a set of functions used to find a common time slot
 
 main.py: 
 you can create new Participants objects 
-call the function responsible for finding time slots
+
+and then you can call the function responsible for finding time slots
 
 ## Tooling: 
 python should be installed on the machine
