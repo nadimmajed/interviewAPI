@@ -12,23 +12,25 @@
 # is different new objects should be created.
 
 
-#a1={"WeekNumber":[1],'dayName':['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-#    'TimeStart':"9am",'TimeEnd':"4pm"}
-
-a1={"WeekNumber":[1],'dayName':["Monday",'Tuesday',"Wednesday",'Thursday',"Friday"],
+a1={"WeekNumber":1,'dayName':["Monday",'Tuesday',"Wednesday",'Thursday',"Friday"],
    'TimeStart':"9am",'TimeEnd':"4pm"}
 
 
-a2={"WeekNumber":[1],'dayName':["Monday","Wednesday"],
+a2={"WeekNumber":1,'dayName':["Monday","Wednesday"],
     'TimeStart':"12am",'TimeEnd':"6pm"}
 
-a3={"WeekNumber":[1],'dayName':['Tuesday','Thursday'],
+a3={"WeekNumber":1,'dayName':['Tuesday','Thursday'],
     'TimeStart':"9am",'TimeEnd':"12am"}
 
-a4={"WeekNumber":[1],'dayName':["Monday",'Tuesday',"Wednesday",'Thursday',"Friday"],
+a4={"WeekNumber":1,'dayName':["Monday",'Tuesday',"Wednesday",'Thursday',"Friday"],
     'TimeStart':"9am",'TimeEnd':"10am"}
 
-a5={"WeekNumber":[1],'dayName':["Wednesday"],
+a5={"WeekNumber":1,'dayName':["Wednesday"],
     'TimeStart':"10am",'TimeEnd':"12am"}
 
 
+#a11={"WeekNumber":1,'dayName':['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+    #'TimeStart':"9am",'TimeEnd':"4pm"}
+
+#a12={"WeekNumber":1,'dayName':[ 'Friday'],
+#    'TimeStart':"9am",'TimeEnd':"10am"}
